@@ -1,0 +1,7 @@
+# telemetry recordings
+data/
+*.csv
+
+# OS noise
+.DS_Store
+Thumbs.db
